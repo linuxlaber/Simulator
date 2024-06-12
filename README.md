@@ -7,3 +7,6 @@ I have a problem tho. It seems that I lack the expertise on Computer Graphics. T
 I honestly prefer the part where there is no GUI interface (just like my old ones). However, it seems that most people prefer it with a GUI. So I will be including it on this one.
 
 ![Simulator](https://github.com/linuxlaber/Simulator/assets/170599771/6fd52280-a9b1-4122-9c5b-c1dcd85ac3bb)
+
+Some contents with progress:
+[https://github.com/linuxlaber/Linear-Algebra-Calculator]
